@@ -1,0 +1,96 @@
+#every {
+  background-color: gold;
+  font-size: 30px;
+}
+
+#top {
+  background-color: transparent;
+  text-align: center;
+  font-size: 36px;
+  font-family: Rockwell;
+  position: relative;
+  top: 20px;
+}
+.nav-link {
+  color: maroon;
+  font-family: Impact;
+  font-size: 20px;
+  position: relative;
+  margin-top: auto;
+  margin-left: auto;
+}
+
+#header-img {
+  height: 20%;
+  width: 50%;
+  background-color: red;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  padding-bottom: 40px;
+
+  border: double;
+}
+#other {
+  text-align: center;
+  color: black;
+}
+#list {
+  align-items: center;
+  color: red;
+  background-color: transparent;
+}
+#details {
+  background-color: #ffdf00;
+  color: red;
+  display: flex;
+}
+#video {
+  width: 60%;
+  height: 360px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  border: solid;
+  border-color: red;
+  background-color: black;
+}
+
+.grounds {
+  text-align: center;
+}
+@media (min-width: 20px) {
+  #nav-bar {
+    position: fixed;
+    top: 0;
+    bottom: 100px;
+    width: 100%;
+    height: 150px;
+  }
+}
+#foot {
+  background-color: black;
+  color: maroon;
+  height: 70px;
+  top: 0;
+}
+#news {
+  font-size: 40px;
+  color: maroon;
+
+  font-family: Arial Black;
+}
+#youth {
+  font-size: 40px;
+  color: maroon;
+  font-family: Arial Black;
+}
+#fixtures {
+  font-size: 40px;
+  color: maroon;
+  font-family: Arial Black;
+}
+#head {
+  height: 20px;
+  width: auto;
+}
